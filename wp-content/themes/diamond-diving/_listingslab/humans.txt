@@ -1,0 +1,85 @@
+
+    If you're human, you're reading this. Hello.
+    
+    /////////////////////////////////
+// OSFrontend Open Source JQuery
+/*
+	This is the start of the App. It is dependant on jQuery and jQuery UI
+	plus the Model, View and Controller (MVC) includes
+	Include on your Application's Page in this fashion
+	<script src="{app_path}_js/OSFrontend/Main.js"></script>
+ */
+
+
+   	/* TEAM */
+   	
+    Developer: Chris Dorward
+    Company: Listingslab
+    Site: http://listingslab.com
+    github: https://github.com/listingslab
+    Location: Chamonix, France.    
+   
+    			[...]
+    			
+    /* What are you looking at? */    	
+    
+    http://listingslab.com		
+
+	You're looking at a Rich Internet Application built on the 
+	FREE OSFrontend framework -an open source framework for building 
+	cross-platform Rich Internet Apps using Javascript
+	
+	http://osfrontend.com
+
+	GitHub
+	https://github.com/listingslab/
+
+
+
+	/* THANKS TO*/
+	Ms Red, the muse
+    
+    					[...]      
+                        
+		    /* Open Source Technology Stack */
+		   
+		    LAMP
+		    Linx, Apache, MySQL, PHP. Standard, really.
+		    
+		    Cloud Convert
+		    https://cloudconvert.org/mp3-to-ogg
+		    
+		    jQuery           
+		    http://jquery.com
+		    jQuery is a fast, small, and feature-rich JavaScript library.
+		        
+		    jQuery  UI
+		    http://jqueryui.com
+		    jQuery UI is a curated set of user interface interactions, 
+		    effects, widgets, and themes built on top of the jQuery JavaScript Library.
+		    
+		    Ion Sound
+		    http://ionden.com/a/plugins/ion.sound/en.html
+		    
+			    Ion.Sound - Plugin for playing sounds on events
+			    Crossbrowser support: Google Chrome, Mozilla Firefox, Opera, Safari, IE(9.0+) and mobile browsers
+			    GitHub Page.
+			    Ion.Sound freely distributed under terms of MIT licence.
+			    Ion.Sound includes 25 free sounds
+
+		    jquery.cookie
+		    https://github.com/carhartl/jquery-cookie
+		    A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
+		    
+		    WordPress 
+		    http://wordpress.org
+		    WordPress is web software you can use to create a beautiful website or blog.
+		   
+		   
+    ,-----.,--.                  ,--. 
+    '  .--./|  | ,---. ,--.,--. ,-|  |
+    '  '--'\|  |' '-' ''  ''  '\ `-' |
+     `-----'`--' `---'  `----'  `---' 
+    ----------------------------------
+    
+Tara then.
